@@ -36,7 +36,11 @@ public class Person {
 	}
 	
 	public static void main(String args[]) {
-		Person[] people = new Person[] {new Person("Scott", 30), new Person("Lynn", 25), new Person("Smith", 15), new Person("Linda", 10)};
+		Person[] people = 
+				new Person[] {new Person("Scott", 30), 
+								new Person("Lynn", 25), 
+								new Person("Smith", 15), 
+								new Person("Linda", 10)};
 		Person[] minors;
 		Person[] adults;
 		
