@@ -10,10 +10,7 @@ object XmlTest {
 			<item name="bread" quantity="3" price="2.50"/>
 			<item name="milk" quantity="2" price="3.50"/>
 		</shopping>
-	
-	
-	
-	
+		
 	val res =  
 		for (
 		    item <- data \ "item";
