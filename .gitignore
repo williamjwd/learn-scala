@@ -5,4 +5,4 @@
 *.war
 *.ear
 
-learn-scala-sample/.cache
+.cache
