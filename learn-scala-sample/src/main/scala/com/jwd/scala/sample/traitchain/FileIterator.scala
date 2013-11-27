@@ -1,4 +1,4 @@
-package traitchain
+package com.jwd.scala.sample.traitchain
 
 import scala.collection.Iterable
 import java.io.FileReader
